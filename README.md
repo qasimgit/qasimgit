@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently enrolled in **4 year undergraduate BS Computer Science**
 
-- 🌱 I’m currently making full grasp on **React Js**
+- 🌱 I’m currently playing with **React Js**
 
 - 👨‍💻 All of my projects are available at [qasimportfolio.surge.sh](qasimportfolio.surge.sh)
 
