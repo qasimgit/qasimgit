@@ -56,7 +56,7 @@ When I’m not wrangling code, you’ll find me on the cricket pitch, pretending
 ### 📫 Let's Connect
 - **Medium:** [@qasimpkkhi](https://medium.com/@qasimpkkhi)
 - **LinkedIn:** [Muhammad Qasim Qadri](https://www.linkedin.com/in/qasimqadri/)
-- **Twitter/X:** [@muhammad_qasiim](https://x.com/qasimqadri)
+- **Twitter/X:** [@qasim_qadri1](https://x.com/qasim_qadri1)
 - **GitHub:** [@qasimgit](https://github.com/qasimgit)
 - **Email:** qasimpkkhi@gmail.com
 
