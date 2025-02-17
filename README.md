@@ -1,5 +1,5 @@
 # Hi 👋, I'm Muhammad Qasim Qadri
-## 🚀 Senior Software Engineer | Full-Stack Developer | Startup Enthusiast
+## 🚀 Full-Stack Developer | Startup Enthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasimgit" alt="qasimgit" /> </p>
 
